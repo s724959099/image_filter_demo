@@ -1,0 +1,4 @@
+/venv
+/notebooks/MNIST_data
+.ipynb_checkpoints
+.idea/
